@@ -42,3 +42,41 @@
     background-color: #fba50a !important;
     color: #000 !important;
 }
+
+.dish-image {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.dish-card > div > div > div > div > .card-title {
+    font-size: 14px;
+}
+
+.dish-card > div > div > div > div > p {
+    font-size: 12px;
+}
+
+.dish-card > div > div > div > a {
+    font-size: 12px;
+    height: fit-content;
+}
+
+.qty-btn {
+    background-color: #fff;
+    border: 1px solid #ff2806;
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.social-icons {
+    font-size: 28px;
+    color: #ff2806;
+}
