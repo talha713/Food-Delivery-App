@@ -80,3 +80,11 @@
     font-size: 28px;
     color: #ff2806;
 }
+
+.fit-height {
+    height: fit-content;
+}
+
+.selected-logo {
+    display: none;
+}
